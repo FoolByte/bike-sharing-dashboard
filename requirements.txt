@@ -1,3 +1,5 @@
+setuptools==68.0.0 
+wheel
 Babel==2.12.1
 matplotlib==3.8.0
 numpy==1.25.2
